@@ -3,7 +3,6 @@
 // Zadanie 8.1
 //  Drzewo B
 //
-//  WCY21IX4S0  Miksiewicz Pawel
 //============================================================================
 
 #include <iostream>
